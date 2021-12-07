@@ -218,7 +218,7 @@ Les données à caractère personnel recueillies dans le cadre de la souscriptio
 
 Le responsable de traitement de données à caractère personnel est la société BABY POUSS&#39;, domiciliée à l&#39;adresse susmentionnée.
 
-Le Client est informé que les informations recueillies font l&#39;objet d&#39;un traitement informatique destiné à effectuer les opérations relatives à la gestion des Clients et des Utilisateurs concernant les Abonnements, les factures, la comptabilité et la gestion des Comptes Client et ce conformément à la Politique de confidentialité des données personnelles (mettre un lien renvoyant à la Politique)de BABY POUSS&#39;
+Le Client est informé que les informations recueillies font l&#39;objet d&#39;un traitement informatique destiné à effectuer les opérations relatives à la gestion des Clients et des Utilisateurs concernant les Abonnements, les factures, la comptabilité et la gestion des Comptes Client et ce conformément à la Politique de confidentialité des données personnelles ([https://github.com/PierreEmmD/babypouss-privacy/blob/main/privacy-policy.md](https://github.com/PierreEmmD/babypouss-privacy/blob/main/privacy-policy.md)) de BABY POUSS&#39;
 
 BABY POUSS&#39; indique les données obligatoires pour assurer ses Services par l&#39;apposition du signe suivant : « \* ». A défaut de réponse de la part du Client sur les champs mentionnés comme obligatoires, ce dernier ne pourra pas s&#39;inscrire et bénéficier des Contenus et Services fournis par BABY POUSS&#39;.
 
